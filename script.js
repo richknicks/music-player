@@ -14,8 +14,8 @@ const nextBtn = document.getElementById("next");
 const songs = [
   {
     name: "jacinto-1",
-    displayName: "Electric Chill Machine",
-    artist: "Jacinto Design",
+    displayName: "The Realist",
+    artist: "Mobb Deep ft. Kool G Rap",
   },
   {
     name: "jacinto-2",
