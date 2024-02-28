@@ -19,18 +19,18 @@ const songs = [
   },
   {
     name: "jacinto-2",
-    displayName: "Seven Nation Army (Remix)",
-    artist: "Jacinto Design",
+    displayName: "The Bridge is Over",
+    artist: "BDP",
   },
   {
     name: "jacinto-3",
-    displayName: "Goodnight, Disco Queen",
-    artist: "Jacinto Design",
+    displayName: "N.Y. State of Mind",
+    artist: "Nas",
   },
   {
     name: "metric-1",
-    displayName: "Front Row (Remix)",
-    artist: "Metric/Jacinto Design",
+    displayName: "Twinz",
+    artist: "Big Pun feat. Fat Joe",
   },
 ];
 
